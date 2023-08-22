@@ -1,0 +1,16 @@
+{
+  "token": {
+    "value": "iukjvKqoweTaLBtTrYxxoQ==",
+    "user": {
+      "id": "B6319650-6BBA-4EF5-AB4E-B34A84494955"
+    },
+    "id": "EC363481-AAA5-4B1D-B32A-812A05F637AA"
+  },
+  "user": {
+    "username": "retr0dev",
+    "linkedDeviceIds": [],
+    "emailVerified": true,
+    "admin": true,
+    "email": "retr0dev@icloud.com"
+  }
+}

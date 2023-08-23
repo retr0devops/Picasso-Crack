@@ -10,7 +10,7 @@
     "username": "retr0dev",
     "linkedDeviceIds": [],
     "emailVerified": true,
-    "admin": false,
+    "admin": true,
     "email": "retr0dev@icloud.com"
   }
 }
